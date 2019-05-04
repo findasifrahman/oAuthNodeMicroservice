@@ -1,0 +1,31 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "Testing Oauth using tolocalhost",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findasifrahman/oAuthNodeMicroservice.git"
+  },
+  "keywords": [
+    "oauth",
+    "2.0",
+    "microservice",
+    "Nodejs",
+    "google+"
+  ],
+  "author": "Asif Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/findasifrahman/oAuthNodeMicroservice/issues"
+  },
+  "homepage": "https://github.com/findasifrahman/oAuthNodeMicroservice#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
